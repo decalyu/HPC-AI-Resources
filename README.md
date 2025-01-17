@@ -7,7 +7,7 @@ Welcome to the **HPC-AI-Resources** repository! This repository serves as a comp
 The repository's wiki includes the following pages:
 
 - **Home**: An introduction to the repository and its purpose.
-- **HPC-AnyImage-Docker**: Instructions for setting up Docker containers for various images.
-- **HPC-HelloWorld-Docker**: A guide to creating and running a "Hello, World!" application in Docker.
+- - **HPC-HelloWorld-Python**: Instructions for setting up and running a "Hello, World!" application in Python.
 - **HPC-HelloWorld-JupyterNotebook**: Tutorial on running a "Hello, World!" application using Jupyter Notebooks.
-- **HPC-HelloWorld-Python**: Instructions for setting up and running a "Hello, World!" application in Python.
+- **HPC-HelloWorld-Docker**: A guide to creating and running a "Hello, World!" application in Docker.
+- **HPC-AnyImage-Docker**: Instructions for setting up Docker containers for various images.

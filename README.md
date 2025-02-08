@@ -1,10 +1,11 @@
 # 🚀 HPC-AI-Resources Repository Overview 🌟
 
-Welcome to the **HPC-AI-Resources** repository! This repository offers accessible resources and workshops on AI and supercomputing (high-performance computing, HPC) designed for both STEM (Science, Technology, Engineering, and Mathematics) and non-STEM majors. The materials are presented in simple language, requiring no prior technical background, making them suitable for a wide range of learners.
+Welcome to the HPC-AI-Resources Repository!
+This repository provides easy-to-understand resources and workshops on AI and supercomputing (HPC), tailored for both STEM (Science, Technology, Engineering, and Mathematics) and non-STEM majors. The content is beginner-friendly, requiring no prior technical background.
 
-The focus is on bridging the AI digital gap and enabling participants to harness the power of AI and HPC for research, innovation, and discovery. By simplifying complex concepts, these workshops aim to empower researchers and students alike to confidently integrate AI and HPC into their academic and professional pursuits.
+The goal is to bridge the AI digital gap and empower participants to use AI and HPC for research, innovation, and discovery. These workshops simplify complex topics, helping researchers and students confidently apply AI and HPC in their work.
 
-Click on the repository Wiki for more details.
+For more details, visit the repository Wiki.
 
 
 

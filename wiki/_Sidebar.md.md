@@ -1,0 +1,18 @@
+- **🚀 AI & HPC Workshops**
+  - **🖥️ 1️⃣ Using Personal Computer (PC)**
+    - [✨ AI Magic with Jupyter!](personal-computer-intro)
+    - [📊 Visualize AI Data!](personal-computer-data-exploration)
+    - [🤖 Simple ML Model](personal-computer-simple-ml)
+    - [🧠 Deep Neural Network (DNN)](personal-computer-dnn)
+    - [💬 Introduction to LLMs](personal-computer-intro-llms)
+    - [📚 LLM + RAG](personal-computer-llm-rag)
+    - [🔍 Ethical AI & Future Trends](personal-computer-ethical-ai)
+  - **💻 2️⃣ High-Performance Computing (HPC)**
+    - [🚀 AI Magic with Jupyter!](hpc-intro)
+    - [📊 Visualize AI Data!](hpc-data-exploration)
+    - [🤖 Simple ML Model](hpc-simple-ml)
+    - [🧠 Deep Neural Network (DNN)](hpc-dnn)
+    - [💬 Introduction to LLMs](hpc-intro-llms)
+    - [📚 LLM + RAG](hpc-llm-rag)
+    - [🔍 Ethical AI & Future Trends](hpc-ethical-ai)
+- **[Additional AI Resources](https://github.com/DrAlzahrani/HPC-AI-Resources/wiki/Additional-AI-Resources)**
